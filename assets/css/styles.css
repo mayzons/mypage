@@ -117,6 +117,7 @@
 .form-group textarea {
     border: none;
     background: var(--white-color);
+    border-color: var(--black-color);
     padding: 1.5rem 2rem;
     width: 100%;
     font-size: 3rem;
@@ -129,9 +130,9 @@
 }
 
 .form-group button {
-    border: 0.5rem solid var(--white-color);
+    border: 0.5rem solid var(--black-color);
     background: none;
-    color: var(--white-color);
+    color: var(--black-color);
     padding: 1.5rem 2rem;
     font-size: 3rem;
     cursor: pointer;
