@@ -1,8 +1,8 @@
 .main-bg{
-    background-image: url('../img/main-bg.svg');
+    background-image: url('../img/fundo_new.jpg');
     background-size: cover;
     background-position: center center;
-    color: var(--white-color);
+    color: var(--primary-color);
     }
     
     .white-bg{
